@@ -2,7 +2,9 @@
 A JavaScript Library  to Play H.265 Video
 
 
-## H265 Aricles
+
+
+## H.265 Articles
 
 + [libde265.js](https://www.libde265.org/blog/2014/04/10/libde265-js-javascript-hevch-265-bitstream-decoder/)
 + [Web 播放 H.265视频](https://www.jackpu.com/web-bo-fang-h265/)
