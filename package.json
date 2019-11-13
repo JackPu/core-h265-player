@@ -1,0 +1,19 @@
+{
+  "name": "core-h265-player",
+  "version": "1.0.0",
+  "description": "A JavaScript Library  to Play H.265 Video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackPu/core-h265-player.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackPu/core-h265-player/issues"
+  },
+  "homepage": "https://github.com/JackPu/core-h265-player#readme"
+}
